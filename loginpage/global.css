@@ -1,0 +1,92 @@
+.form-container{
+	width:270px;
+	padding:20px;
+	border-radius:10px;
+	box-shadow:3px 3px #000;
+	
+}
+body{
+	width:250px;
+	margin:auto;
+	margin-top:70px;
+
+}
+i{
+	padding:3px;
+	
+	margin-bottom:-20000px;
+	margin-left:190px;
+	opacity:0.2;
+}
+.fas{
+	padding:0.1px;
+	
+	margin-bottom:-2000px
+	margin-left:190px;
+	opacity:0.2;
+}
+.link1{
+margin-top:5px;}
+.link2{
+margin-top:-14px;
+margin-left:190px;}
+.btn-btn-primary{
+	border: none;
+	color: white;
+	background-color:#00BFFF;
+    width:100%;
+	text-align: center;
+	border-radius: 5px;
+	}
+ .intro{
+	color:white;
+	text-align:center;
+	background-color:#00BFFF;}
+	.form-label{
+	
+	width:100%;
+	background-color:#00BFFF;
+	margin-top:-15px;
+	}
+	.rest{
+		
+		border: none;
+		background-color:#00BFFF;
+		text-align: center;
+		color:white;
+	}
+	.facebook{
+	border: none;
+	color: white;
+	background-color:blue;
+    width:100%;
+	text-align: center;
+	border-radius: 5px;
+	padding:2px;
+	}
+.google{
+	border: none;
+	color: white;
+    background-color:#FF4500;
+    width:100%;
+	text-align: center;
+	border-radius: 5px;
+	padding:2px;
+	}
+	.EPAM-LOGIN{
+	border: none;
+	color: white;
+    background-color:#FFD700;
+    width:100%;
+	text-align: center;
+	border-radius: 5px;
+	padding:4px;
+	}
+	.facebook{
+	margin-bottom:6px;}		
+	.google{
+	margin-bottom:6px;}		
+	
+	
+	
+	
